@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>anasayfa.png</file>
+    <file>black.png</file>
+    <file>ders.png</file>
+    <file>dersW.png</file>
+    <file>muhasebe.png</file>
+    <file>muhasebeW.png</file>
+    <file>net.png</file>
+    <file>netW.png</file>
+    <file>ogrenci.png</file>
+    <file>ogrenciW.png</file>
+    <file>sınıf.png</file>
+    <file>sınıfW.png</file>
+    <file>Sophia(1).png</file>
+    <file>white.png</file>
+  </qresource>
+</RCC>
